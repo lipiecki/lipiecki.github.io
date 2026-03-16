@@ -1,0 +1,18 @@
+---
+title: "Software"
+---
+
+## [<i class="bi bi-github"></i>](https://github.com/lipiecki/PostForecasts.jl) PostForecasts.jl
+[![PostForecasts.jl](https://github.com/lipiecki/PostForecasts.jl/raw/main/docs/src/images/banner.png?raw=true)](https://github.com/lipiecki/PostForecasts.jl)
+Julia package that turns point predictions into probablilistic forecasts.
+
+```zsh
+pkg> add PostForecasts
+```
+
+## [<i class="bi bi-github"></i>](https://github.com/lipiecki/lassoquantreg) lassoquantreg
+A simple Python package based on scikit-learn and optuna that provides automatic selection of the best lasso quantile regression model.
+
+```zsh
+pip install git+https://github.com/lipiecki/lassoquantreg.git
+```

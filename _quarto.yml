@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Arkadiusz Lipiecki"
+  navbar:
+    left:
+      - cv.qmd
+      - pubs.qmd
+      - software.qmd
+
+format:
+  html:
+    theme:
+      - darkly
+      - custom.scss
+    css: styles.css
+    toc: true

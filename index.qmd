@@ -1,0 +1,20 @@
+---
+title: "Arkadiusz Lipiecki"
+about:
+  template: jolla
+  image: content/me.jpg
+  image-width: 360px
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lipiecki
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/arkadiusz-lipiecki
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=jI1fr2IAAAAJ&hl=en
+---
+Hi, my name is Arek, I'm currently pursuing a PhD in Economics at Wrocław Tech. My research focuses on energy forecasting and social simulation. I hold a BSc in Quantum Engineering and an MSc in Big Data Analytics.
+
+Right now, I'm mostly invested in research on probabilistic forecasting and reconciliation for day-ahead electricity markets using statistical methods and deep learning models. I also study opinion dynamics and emergent social phenomena through the lens of agent-based models and dynamical systems, with a particular interest in polarization and anticonformity.
