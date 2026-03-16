@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "B. Kamińska, B. Nowak, A. Lipiecki, K. Sznajd-Weron. Competition between private and expressed opinions in binary choice: the α-EPO q-voter model. arXiv.2601.18895\nK. Maciejowska, A. Lipiecki, B. Uniejewski. Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE. arXiv.2511.13616\nA. Lipiecki, K. Bilinska, N. Kourentzes, R. Weron. Stealing Accuracy: Predicting Day-ahead Electricity Prices with Temporal Hierarchy Forecasting (THieF). arXiv.2508.11372\nA. Lipiecki, B. Uniejewski. Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts. arXiv.2507.15079"
+  },
+  {
+    "objectID": "pubs.html#working-papers",
+    "href": "pubs.html#working-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "B. Kamińska, B. Nowak, A. Lipiecki, K. Sznajd-Weron. Competition between private and expressed opinions in binary choice: the α-EPO q-voter model. arXiv.2601.18895\nK. Maciejowska, A. Lipiecki, B. Uniejewski. Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE. arXiv.2511.13616\nA. Lipiecki, K. Bilinska, N. Kourentzes, R. Weron. Stealing Accuracy: Predicting Day-ahead Electricity Prices with Temporal Hierarchy Forecasting (THieF). arXiv.2508.11372\nA. Lipiecki, B. Uniejewski. Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts. arXiv.2507.15079"
+  },
+  {
+    "objectID": "pubs.html#published-papers",
+    "href": "pubs.html#published-papers",
+    "title": "Publications",
+    "section": "Published papers",
+    "text": "Published papers\n\nA. Lipiecki, K. Sznajd-Weron. When heterogeneity drives hysteresis: Anticonformity in the multistate q -voter model on networks. Physical Review E 112(5), 054316 (2025). 10.1103/9f3r-fsrr\nA. Lipiecki, R. Weron. PostForecasts.jl: A Julia package for probabilistic forecasting by postprocessing point predictions. SoftwareX 31, 102200 (2025). 10.1016/j.softx.2025.102200\nA. Lipiecki, K. Sznajd-Weron. Depolarizing power of anticonformity. Expert Systems with Applications 285, 127879 (2025). 10.1016/j.eswa.2025.127879\nA. Lipiecki, B. Uniejewski, R. Weron. Postprocessing of point predictions for probabilistic forecasting of day-ahead electricity prices: The benefits of using isotonic distributional regression. Energy Economics 139, 107934 (2024). 10.1016/j.eneco.2024.107934\nA. Lipiecki. Strategic Promotional Campaigns for Sustainable Behaviors: Maximizing Influence in Competitive Complex Contagions. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 14834 LNCS, 62–70 (2024). 10.1007/978-3-031-63759-9_8\nA. Lipiecki, K. Sznajd-Weron. Polarization in the three-state q-voter model with anticonformity and bounded confidence. Chaos, Solitons and Fractals 165, 112809 (2022). 10.1016/j.chaos.2022.112809\nM. Doniec, A. Lipiecki, K. Sznajd-Weron. Consensus, Polarization and Hysteresis in the Three-State Noisy q-Voter Model with Bounded Confidence. Entropy 24(7), 983 (2022). 10.3390/e24070983\nA. Abramiuk-Szurlej, A. Lipiecki, J. Pawłowski, K. Sznajd-Weron. Discontinuous phase transitions in the q-voter model with generalized anticonformity on random graphs. Scientific Reports 11(1), 17719 (2021). 10.1038/s41598-021-97155-0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arkadiusz Lipiecki",
+    "section": "",
+    "text": "Hi, my name is Arek, I’m currently pursuing a PhD in Economics at Wrocław Tech. My research focuses on energy forecasting and social simulation. I hold a BSc in Quantum Engineering and an MSc in Big Data Analytics.\nRight now, I’m mostly invested in research on probabilistic forecasting and reconciliation for day-ahead electricity markets using statistical methods and deep learning models. I also study opinion dynamics and emergent social phenomena through the lens of agent-based models and dynamical systems, with a particular interest in polarization and anticonformity."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Julia package that turns point predictions into probablilistic forecasts.\npkg&gt; add PostForecasts"
+  },
+  {
+    "objectID": "software.html#postforecasts.jl",
+    "href": "software.html#postforecasts.jl",
+    "title": "Software",
+    "section": "",
+    "text": "Julia package that turns point predictions into probablilistic forecasts.\npkg&gt; add PostForecasts"
+  },
+  {
+    "objectID": "software.html#lassoquantreg",
+    "href": "software.html#lassoquantreg",
+    "title": "Software",
+    "section": " lassoquantreg",
+    "text": "lassoquantreg\nA simple Python package based on scikit-learn and optuna that provides automatic selection of the best lasso quantile regression model.\npip install git+https://github.com/lipiecki/lassoquantreg.git"
+  }
+]
