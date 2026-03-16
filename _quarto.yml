@@ -9,6 +9,12 @@ website:
       - cv.qmd
       - pubs.qmd
       - software.qmd
+  announcement: 
+    icon: globe-asia-australia-fill
+    dismissable: false
+    content: "I'm now on a research visit at Monash University. You can find me in Melbourne until the end of March."
+    type: primary
+    position: below-navbar
 
 format:
   html:
