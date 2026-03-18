@@ -47,5 +47,12 @@
     "title": "Software",
     "section": " lassoquantreg",
     "text": "lassoquantreg\nA simple Python package based on scikit-learn and optuna that provides automatic selection of the best lasso quantile regression model.\npip install git+https://github.com/lipiecki/lassoquantreg.git"
+  },
+  {
+    "objectID": "software.html#qvoterseeding.jl",
+    "href": "software.html#qvoterseeding.jl",
+    "title": "Software",
+    "section": " QVoterSeeding.jl",
+    "text": "QVoterSeeding.jl\nJulia package for network seeding simulations under q-voter dynamics.\npkg&gt; add https://github.com/lipiecki/QVoterSeeding.jl"
   }
 ]

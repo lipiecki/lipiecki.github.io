@@ -16,3 +16,10 @@ A simple Python package based on scikit-learn and optuna that provides automatic
 ```zsh
 pip install git+https://github.com/lipiecki/lassoquantreg.git
 ```
+
+## [<i class="bi bi-github"></i>](https://github.com/lipiecki/QVoterSeeding.jl) QVoterSeeding.jl
+Julia package for network seeding simulations under q-voter dynamics.
+
+```zsh
+pkg> add https://github.com/lipiecki/QVoterSeeding.jl
+```
