@@ -3,7 +3,7 @@ title: "Software"
 ---
 
 ## [<i class="bi bi-github"></i>](https://github.com/lipiecki/PostForecasts.jl) PostForecasts.jl
-[![PostForecasts.jl](https://github.com/lipiecki/PostForecasts.jl/raw/main/docs/src/images/banner.png?raw=true)](https://github.com/lipiecki/PostForecasts.jl)
+[![PostForecasts.jl](https://github.com/lipiecki/PostForecasts.jl/blob/main/docs/src/assets/logo.svg?raw=true)](https://github.com/lipiecki/PostForecasts.jl)
 Julia package that turns point predictions into probablilistic forecasts.
 
 ```zsh
