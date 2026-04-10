@@ -12,6 +12,7 @@ https://doi.org/10.48550/arXiv.2601.18895)
 
 ## Published papers
 
+- K. Maciejowska, A. Lipiecki, B. Uniejewski. *Statistical and economic evaluation of forecasts in electricity markets: Beyond RMSE and MAE*. **Energy Conversion and Management** 356, 121408 (2026). [10.1016/j.enconman.2026.121408](https://doi.org/10.1016/j.enconman.2026.121408)
 - A. Lipiecki, K. Sznajd-Weron. *When heterogeneity drives hysteresis: Anticonformity in the multistate q -voter model on networks*. **Physical Review E** 112(5), 054316 (2025). [10.1103/9f3r-fsrr](https://doi.org/10.1103/9f3r-fsrr)
 - A. Lipiecki, R. Weron. *PostForecasts.jl: A Julia package for probabilistic forecasting by postprocessing point predictions*. **SoftwareX** 31, 102200 (2025). [10.1016/j.softx.2025.102200](https://doi.org/10.1016/j.softx.2025.102200)
 - A. Lipiecki, K. Sznajd-Weron. *Depolarizing power of anticonformity*. **Expert Systems with Applications** 285, 127879 (2025). [10.1016/j.eswa.2025.127879](https://doi.org/10.1016/j.eswa.2025.127879)
