@@ -6,7 +6,6 @@ title: "Publications"
 
 - B. Kamińska, B. Nowak, A. Lipiecki, K. Sznajd-Weron. *Competition between private and expressed opinions in binary choice: the α-EPO q-voter model*. [arXiv.2601.18895](
 https://doi.org/10.48550/arXiv.2601.18895)
-- K. Maciejowska, A. Lipiecki, B. Uniejewski. *Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE*. [arXiv.2511.13616](https://doi.org/10.48550/arXiv.2511.13616)
 - A. Lipiecki, K. Bilinska, N. Kourentzes, R. Weron. *Stealing Accuracy: Predicting Day-ahead Electricity Prices with Temporal Hierarchy Forecasting (THieF)*. [arXiv.2508.11372](https://doi.org/10.48550/arXiv.2508.11372)
 - A. Lipiecki, B. Uniejewski. *Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts*. [arXiv.2507.15079](https://doi.org/10.48550/arXiv.2507.15079)
 
