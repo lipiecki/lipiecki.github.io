@@ -9,6 +9,7 @@ website:
       - cv.qmd
       - pubs.qmd
       - software.qmd
+      - confs.qmd
   #announcement: 
     #dismissable: false
     #content: "..."

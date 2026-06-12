@@ -1,0 +1,12 @@
+---
+title: "Conferences"
+---
+
+## Posters
+### NetSci 2026 
+**How stubborn anticonformists drive social hysteresis - quenched anticonformity in the multistate *q*-voter model on networks**
+<iframe src="content/posters/netsci-2026.pdf" style="height: 680px; width: 960px;scrolling=yes"></iframe> 
+
+### IC2S2 2025
+**Depolarizing Power of Anticonformity**
+<iframe src="content/posters/ic2s2-2025.pdf" style="height: 680px; width: 960px;scrolling=yes"></iframe> 
