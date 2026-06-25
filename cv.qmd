@@ -2,4 +2,6 @@
 title: "CV"
 ---
 
-<iframe src="content/cv.pdf" style="height: 680px; width: 960px;scrolling=yes"></iframe> 
+<div class="pdf-container">
+  <iframe src="content/cv.pdf" class="pdf-frame" scrolling="no"></iframe>
+</div>

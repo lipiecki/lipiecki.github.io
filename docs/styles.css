@@ -1,0 +1,16 @@
+.pdf-container {
+  width: min(100%, 1200px);
+  margin-inline: auto;
+  padding: clamp(0.5rem, 2vw, 1.5rem);
+  box-sizing: border-box;
+}
+
+.pdf-frame {
+  display: block;
+  width: 100%;
+  aspect-ratio: 8.5 / 11;
+  height: auto;
+  min-height: 60vh;
+  border-radius: 0.5rem;
+  background: #fff;
+}
