@@ -10,11 +10,12 @@ website:
       - pubs.qmd
       - software.qmd
       - confs.qmd
-  #announcement: 
-    #dismissable: false
-    #content: "..."
-    #type: primary
-    #position: below-navbar
+  announcement: 
+    icon: bi bi-globe-americas
+    dismissable: false
+    content: "From June 28 to July 1 you can find me in Montreal at the International Symposium on Forecasting"
+    type: primary
+    position: below-navbar
 
 format:
   html:
