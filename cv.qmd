@@ -1,7 +1,8 @@
 ---
-title: "CV"
+title: "CV" 
 ---
+<a href="content/cv.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
 
 <div class="pdf-container">
-  <iframe src="content/cv.pdf" class="pdf-frame" scrolling="no"></iframe>
+  <iframe src="content/cv.pdf" class="pdf-frame" scrolling="yes"></iframe>
 </div>
