@@ -7,21 +7,12 @@ title: "Conferences"
 ### International Symposium of Forecasting 2026
 **Isotonic Quantile Regression Averaging 
 for uncertainty quantification 
-of electricity price forecasts**
-<a href="content/slides/isf-2026.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
+of electricity price forecasts** <a href="content/slides/isf-2026.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
 
 ## Posters
 
 ### NetSci 2026 
 **How stubborn anticonformists drive social hysteresis - quenched anticonformity in the multistate *q*-voter model on networks** <a href="content/posters/netsci-2026.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
 
-<div class="pdf-container">
-  <iframe src="content/posters/netsci-2026.pdf" class="pdf-frame" scrolling="yes"></iframe>
-</div>
-
 ### IC2S2 2025
 **Depolarizing Power of Anticonformity** <a href="content/posters/ic2s2-2025.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
-
-<div class="pdf-container">
-  <iframe src="content/posters/ic2s2-2025.pdf" class="pdf-frame" scrolling="yes"></iframe>
-</div>
