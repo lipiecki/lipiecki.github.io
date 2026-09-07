@@ -56,7 +56,7 @@ function format_authors(authors_str::AbstractString)
     return join(formatted, ", ")
 end
 
-function format_journal(source, volume, issue, art_no, page_start, page_end)
+function format_journal(source, volume, issue, art_no)
     parts = ["**$source**"]
     
     if !isempty(volume)
@@ -69,17 +69,13 @@ function format_journal(source, volume, issue, art_no, page_start, page_end)
     
     if !isempty(art_no)
         push!(parts, ", $art_no")
-    elseif !isempty(page_start) && !isempty(page_end)
-        push!(parts, ", $(page_start)–$(page_end)")
-    elseif !isempty(page_start)
-        push!(parts, ", $page_start")
     end
     
     return join(parts, "")
 end
 
 function format_paper(fields)
-    # columns: Authors,Title,Year,Source title,Volume,Issue,Art. No.,Page start,Page end,Page count,DOI,Link
+    # columns: Authors,Title,Year,Source title,Volume,Issue,Art. No.,DOI
     authors = format_authors(fields[1])
     title = fields[2]
     year = fields[3]
@@ -87,11 +83,9 @@ function format_paper(fields)
     volume = fields[5]
     issue = fields[6]
     art_no = fields[7]
-    page_start = fields[8]
-    page_end = fields[9]
-    doi = fields[11]
+    doi = fields[8]
     
-    journal = format_journal(source, volume, issue, art_no, page_start, page_end)
+    journal = format_journal(source, volume, issue, art_no)
     doi_link = "[$doi](https://doi.org/$doi)"
 
     return "- $authors. *$title*. $journal ($year). $doi_link"
