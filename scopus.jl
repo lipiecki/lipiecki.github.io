@@ -23,7 +23,7 @@ function format_authors(authors_str::AbstractString)
     parts = String[]
     current = ""
     
-    for segment in split(authors_str, ", ")
+    for segment in split(authors_str, "; ")
         if isempty(current)
             current = segment
         else
