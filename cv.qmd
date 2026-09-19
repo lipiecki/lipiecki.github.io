@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+<a id="cv-pdf-download" href="#" style="text-decoration: none;" class="bi bi-file-earmark-arrow-down-fill"> PDF</a>
+
 <script type="text/plain" id="cv-document-styles">
 /* COLORS */
 :root {
@@ -156,7 +158,7 @@ a:focus {
   }
 
   .entry-date {
-    grid-row: 1;
+    grid-row: auto;
     text-align: left;
   }
 
@@ -169,7 +171,7 @@ a:focus {
 @media print {
   @page {
     size: letter;
-    margin: 0;
+    margin: 0.62in 0.68in 0.56in;
   }
 
   html {
@@ -197,8 +199,8 @@ a:focus {
 ```{=html}
 <iframe
   id="cv-frame"
-  title="Curriculum Vitae of Arkadiusz Lipiecki"
-  sandbox="allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+  title="CV Arkadiusz Lipiecki"
+  sandbox="allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-modals"
   style="display: block; width: 100%; min-height: 70vh; border: 0; border-radius: 0.75rem;"
 ></iframe>
 
@@ -238,6 +240,24 @@ a:focus {
 
 <section class="cv-section">
   <h2>Publications</h2>
+  <div class="entry publication">
+    <div class="entry-main">
+      <a class="entry-title" href="https://doi.org/10.1016/j.ijforecast.2026.03.003">Stealing accuracy: Predicting day-ahead electricity prices with temporal hierarchy forecasting (THieF)</a>
+      <br>
+      <span class="entry-detail">International Journal of Forecasting 42, 4</span>
+    </div>
+    <div class="entry-date">Aug 2026</div>
+  </div>
+
+  <div class="entry publication">
+    <div class="entry-main">
+      <a class="entry-title" href="https://doi.org/10.1103/8w9t-jpvp">Competition between private and expressed opinions in binary choice: The α-EPO q-voter model</a>
+      <br>
+      <span class="entry-detail">Physical Review E 113, 064301</span>
+    </div>
+    <div class="entry-date">Jun 2026</div>
+  </div>
+
   <div class="entry publication">
     <div class="entry-main">
       <a class="entry-title" href="https://doi.org/10.1016/j.enconman.2026.121408">Statistical and economic evaluation of forecasts in electricity markets: Beyond RMSE and MAE</a>
@@ -320,8 +340,41 @@ a:focus {
   </div>
 </section>
 
-<section class="cv-section page-break">
+<section class="cv-section">
   <h2>Conference Contributions</h2>
+  <div class="entry talk">
+    <div class="entry-main">
+      <span class="entry-title">Contributed talk at IFORS</span>
+      <br>
+      <span class="entry-subtitle">Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE</span>
+      <br>
+      <span class="entry-detail">Vienna, Austria</span>
+    </div>
+    <div class="entry-date">Aug 2026</div>
+  </div>
+
+  <div class="entry talk">
+    <div class="entry-main">
+      <span class="entry-title">Contributed talk at 46th International Symposium on Forecasting</span>
+      <br>
+      <span class="entry-subtitle">Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts</span>
+      <br>
+      <span class="entry-detail">Montreal, Canada</span>
+    </div>
+    <div class="entry-date">Jul 2026</div>
+  </div>
+
+  <div class="entry talk">
+    <div class="entry-main">
+      <span class="entry-title">Poster at NetSci 2026</span>
+      <br>
+      <span class="entry-subtitle">How stubborn anticonformists drive social hysteresis - quenched anticonformity in the multistate q-voter model on networks</span>
+      <br>
+      <span class="entry-detail">Boston, United States</span>
+    </div>
+    <div class="entry-date">Jun 2026</div>
+  </div>
+
   <div class="entry talk">
     <div class="entry-main">
       <span class="entry-title">Contributed talk at Energy Finance Italia 11</span>
@@ -465,7 +518,7 @@ a:focus {
   </div>
 </section>
 
-<section class="cv-section page-break">
+<section class="cv-section">
   <h2>Research</h2>
   <div class="entry research">
     <div class="entry-main">
@@ -549,18 +602,26 @@ a:focus {
   <h2>Honors</h2>
   <div class="entry">
     <div class="entry-main">
-      <span class="entry-title">BNY Mellon Award</span>
-      <br>1st place in BNY Mellon Master Thesis Competition in Applied Mathematics
+      <span class="entry-title">Recipient of the Scholarship of the Minister of Science and Higher Education for Outstanding Young Scientists</span>
+      <br>Awarded for scientific achievements in the discipline of Management and Quality Studies.
+    </div>
+  <div class="entry-date">2026</div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-main">
+      <span class="entry-title">BNY Mellon Master Thesis Award</span>
+      <br>Awarded for 1st place in BNY Mellon Master Thesis Competition in Applied Mathematics.
     </div>
     <div class="entry-date">2024</div>
   </div>
 
   <div class="entry">
     <div class="entry-main">
-      <span class="entry-title">Two-time recipient of the Scholarship of the Minister of Education of Science</span>
-      <br>Granted in two consecutive years for outstanding scientific achievements.
+      <span class="entry-title">Two-time recipient of the Scholarship of the Minister of Science for Students</span>
+      <br>Awarded in two consecutive years for outstanding scientific achievements.
     </div>
-  <div class="entry-date">2022–23</div>
+  <div class="entry-date">2022 &amp; 2023</div>
   </div>
 </section>
 </main>
@@ -571,6 +632,7 @@ a:focus {
   const frame = document.getElementById("cv-frame");
   const styles = document.getElementById("cv-document-styles").textContent;
   const content = document.getElementById("cv-document-template").innerHTML;
+  const pdfDownload = document.getElementById("cv-pdf-download");
 
   const standaloneDocument = [
     "<!doctype html>",
@@ -578,7 +640,7 @@ a:focus {
     "<head>",
     '<meta charset="utf-8">',
     '<meta name="viewport" content="width=device-width, initial-scale=1">',
-    "<title>CV — Arkadiusz Lipiecki</title>",
+    "<title>CV-Arkadiusz-Lipiecki</title>",
     '<base target="_blank">',
     `<style>${styles}</style>`,
     "</head>",
@@ -596,6 +658,12 @@ a:focus {
 
     resizeFrame();
     new ResizeObserver(resizeFrame).observe(frame.contentDocument.documentElement);
+  });
+
+  pdfDownload.addEventListener("click", (event) => {
+    event.preventDefault();
+    frame.contentWindow.focus();
+    frame.contentWindow.print();
   });
 
   frame.srcdoc = standaloneDocument;
