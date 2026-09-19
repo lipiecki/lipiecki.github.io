@@ -2,17 +2,19 @@
 title: "Conferences"
 ---
 
-## Slides
-
-### International Symposium of Forecasting 2026
-**Isotonic Quantile Regression Averaging 
-for uncertainty quantification 
-of electricity price forecasts** <a href="content/slides/isf-2026.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
-
-## Posters
-
-### NetSci 2026 
-**How stubborn anticonformists drive social hysteresis - quenched anticonformity in the multistate *q*-voter model on networks** <a href="content/posters/netsci-2026.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
-
-### IC2S2 2025
-**Depolarizing Power of Anticonformity** <a href="content/posters/ic2s2-2025.pdf" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
+- *Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE*. **IFORS**, Vienna, Austria (Aug 2026). Contributed talk.
+- *Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts*. **46th International Symposium on Forecasting**, Montreal, Canada (Jul 2026). Contributed talk. <a href="https://drive.google.com/file/d/1z2jtgw-LoS7K9W-SNAOJ-TkxbGWRnwaM/view?usp=share_link" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
+- *How stubborn anticonformists drive social hysteresis - quenched anticonformity in the multistate q-voter model on networks*. **NetSci 2026**, Boston, United States (Jun 2026). Poster. <a href="https://drive.google.com/file/d/1oPtFyX1FPiRJLFtI5E4C9dqIIptv1vSS/view?usp=share_link" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
+- *Stealing Accuracy: Predicting Day-ahead Electricity Prices with Temporal Hierarchy Forecasting*. **Energy Finance Italia 11**, Padova, Italy (Feb 2026). Contributed talk.
+- *Forecasting day-ahead electricity prices with temporal hierarchies*. **International Ruhr Energy Conference 2025**, Essen, Germany (Aug 2025). Contributed talk.
+- *Depolarizing Power of Anticonformity*. **International Conference on Computational Social Science 2025**, Norrköping, Sweden (Jul 2025). Poster. <a href="https://drive.google.com/file/d/1oPtFyX1FPiRJLFtI5E4C9dqIIptv1vSS/view?usp=share_link" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
+- *From Point Predictions to Probabilistic Forecasts: A New Open-source Toolbox in Julia for Postprocessing Forecasts*. **Quantitative Methods in Finance 2024**, Sydney, Australia (Dec 2024). Contributed talk.
+- *Polarization and consensus in three-state opinion dynamics with anticonformity*. **Conference on Complex Systems 2024**, Exeter, United Kingdom (Sep 2024). Contributed talk.
+- *Probabilistic forecasting of day-ahead electricity prices: Postprocessing of point predictions with Isotonic Distributional Regression*. **International Ruhr Energy Conference 2024**, Essen, Germany (Aug 2024). Contributed talk.
+- *Strategic Promotional Campaigns for Sustainable Behaviors: Maximizing Influence in Competitive Complex Contagions*. **International Conference of Computational Science 2024**, Malaga, Spain (Jul 2024). Contributed talk.
+- *Probabilistic forecasting of electricity prices with isotonic distributional regression*. **44th International Symposium on Forecasting**, Dijon, France (Jul 2024). Contributed talk.
+- *Probabilistic forecasting of electricity prices with isotonic regressions* (best talk award). **International Conference of Computational Finance 2024**, Amsterdam, Netherlands (Apr 2024). Contributed talk.
+- *Discontinuous phase transitions in the generalized q-voter model on random graphs*. **Conference on Complex Systems**, Palma de Mallorca, Spain (Oct 2022). Lightning talk.
+- *Opinion polarization in the q-voter model with bounded confidence* (best talk award). **Symposium for Young Scientists**, Warsaw, Poland (Sep 2022). Contributed talk.
+- *Discontinuous phase transitions in the generalized q-voter model on random graphs*. **11th Polish Symposium on Physics in Economy and Social Sciences**, Kraków, Poland (Jul 2021). Poster.
+- *Discontinuous phase transitions in the generalized q-voter model on random graphs*. **Networks 2021** (Jun 2021). Contributed talk.

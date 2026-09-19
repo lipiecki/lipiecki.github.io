@@ -10,7 +10,7 @@ website:
       - pubs.qmd
       - software.qmd
       - confs.qmd
-  #announcement: 
+  #announcement:
   #  icon: ...
   #  dismissable: false
   #  content: "..."
