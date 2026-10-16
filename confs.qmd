@@ -2,8 +2,8 @@
 title: "Conferences"
 ---
 
-- *Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE*. **IFORS**, Vienna, Austria (Aug 2026). Contributed talk.
-- *Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts*. **46th International Symposium on Forecasting**, Montreal, Canada (Jul 2026). Contributed talk. <a href="https://drive.google.com/file/d/1z2jtgw-LoS7K9W-SNAOJ-TkxbGWRnwaM/view?usp=share_link" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
+- *Statistical and economic evaluation of forecasts in electricity markets: beyond RMSE and MAE*. **IFORS**, Vienna, Austria (Jul 2026). Contributed talk.
+- *Isotonic Quantile Regression Averaging for uncertainty quantification of electricity price forecasts*. **46th International Symposium on Forecasting**, Montreal, Canada (Jun 2026). Contributed talk. <a href="https://drive.google.com/file/d/1z2jtgw-LoS7K9W-SNAOJ-TkxbGWRnwaM/view?usp=share_link" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
 - *How stubborn anticonformists drive social hysteresis - quenched anticonformity in the multistate q-voter model on networks*. **NetSci 2026**, Boston, United States (Jun 2026). Poster. <a href="https://drive.google.com/file/d/1oPtFyX1FPiRJLFtI5E4C9dqIIptv1vSS/view?usp=share_link" class="bi bi-file-earmark-arrow-down-fill" download aria-label="Download"></a>
 - *Stealing Accuracy: Predicting Day-ahead Electricity Prices with Temporal Hierarchy Forecasting*. **Energy Finance Italia 11**, Padova, Italy (Feb 2026). Contributed talk.
 - *Forecasting day-ahead electricity prices with temporal hierarchies*. **International Ruhr Energy Conference 2025**, Essen, Germany (Aug 2025). Contributed talk.
